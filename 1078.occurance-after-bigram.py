@@ -1,4 +1,13 @@
-words = text.split()  # Split the text into a list of words
+class Solution(object):
+    def findOcurrences(self, text, first, second):
+        """
+        :type text: str
+        :type first: str
+        :type second: str
+        :rtype: List[str]
+        """
+
+        words = text.split()  # Split the text into a list of words
         result = []  # To store the third words
         
         # Iterate through the words, stopping before the last two words
