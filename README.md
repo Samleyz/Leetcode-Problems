@@ -34,24 +34,6 @@ The goal of this project is to improve problem-solving skills, deepen understand
 
 ---
 
-## 📁 Repository Structure
-
-```text
-.
-├── arrays/
-├── strings/
-├── linked_lists/
-├── trees/
-├── graphs/
-├── dynamic_programming/
-├── greedy/
-└── misc/
-```
-
-Each folder contains solutions grouped by topic.
-
----
-
 ## 💡 Example Problems
 
 Here are a few examples of problems solved:
