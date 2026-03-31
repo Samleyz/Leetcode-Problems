@@ -12,7 +12,7 @@ The goal of this project is to improve problem-solving skills, deepen understand
 - 📚 Covered multiple algorithmic topics
 - 🧩 Focus on clean, efficient solutions
 - 🧠 Practiced both easy, medium, and hard problems
-- 💻 Implemented primarily in **C / C++ / (your language here)**
+- 💻 Implemented primarily in **Python**
 
 ---
 
