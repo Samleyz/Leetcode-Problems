@@ -68,17 +68,6 @@ For most problems, I focused on:
 
 ---
 
-## 🛠️ How to Use
-
-Browse by topic or search for a specific problem.  
-Each file typically contains:
-
-- Problem solution
-- Efficient approach
-- Clean implementation
-
----
-
 ## 📌 Notes
 
 - Solutions are written for learning purposes
